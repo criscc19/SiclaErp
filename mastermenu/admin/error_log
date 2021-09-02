@@ -1,0 +1,177 @@
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 19:52:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 19:52:07 UTC] PHP Stack trace:
+[22-Jun-2020 19:52:07 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 19:52:07 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/pruebaserp/public_html/pruebas/mastermenu/core/menus/standard/mastermenu.php on line 293
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 222
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:222
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245
+[22-Jun-2020 20:02:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php on line 245
+[22-Jun-2020 20:02:53 UTC] PHP Stack trace:
+[22-Jun-2020 20:02:53 UTC] PHP   1. {main}() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:0
+[22-Jun-2020 20:02:53 UTC] PHP   2. in_array() /home/pruebaserp/public_html/pruebas/mastermenu/admin/setup.php:245

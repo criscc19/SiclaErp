@@ -1,0 +1,57 @@
+# Copyright (C) ---Put here your own copyright and developer email---
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'Gestor de menu abanzado con MDB Bostrap'
+ModulemastermenuName = Master menú
+# Module description 'ModulemastermenuDesc'
+ModulemastermenuDesc = Gestor de menú abanzado con MDB Bostrap
+mastermenuDescriptionLong = Menu responsibe creado con MDB boostrap, compatible con Materialize
+#
+# Page d'administration
+#
+mastermenuSetup = Configuration Master menú
+Settings = Ajustes
+mastermenuSetupPage = Pagina de configuración de Master menú
+
+#
+# Page À propos
+#
+About = Acerca de
+mastermenuAbout = Info de mastermenu
+mastermenuAboutPage = Paniga de informacion de Master menú
+
+#
+# Page d'exemple
+#
+MyPageName = Ejemplo de pagina
+
+#
+# Box d'exemple
+#
+MyWidget = Mi widget
+MyWidgetDescription = mi widget
+
+#
+# General
+#
+MenuName = Nonbre del menu
+Url = Enlace
+icon = Icono
+activeTop = Activo en el menu superior
+activeLeft = Activo en el menu izquierdo
